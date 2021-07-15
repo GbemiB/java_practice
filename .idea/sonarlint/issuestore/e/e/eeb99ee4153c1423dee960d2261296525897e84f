@@ -1,0 +1,21 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½õšĞşÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛªÙïıÿÿÿÿ
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„å¡¹8ÛŞ¿ƒª/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ’Óÿÿÿÿÿ
+S
+java:S1854"=Remove this useless assignment to local variable "BookJava2".(„å¡¹
+_
+java:S1854"=Remove this useless assignment to local variable "BookJava3".(ÛªÙïıÿÿÿÿ8ŞŞ¿ƒª/
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Å¡Áb
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íÿÊ¯ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÈæîùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Î¦Ôüùÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶ÜóÈ8Ú¢¾ƒª/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ığª…úÿÿÿÿ8Ú¢¾ƒª/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÌ²Ò8Ú¢¾ƒª/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦Õ¸ûÿÿÿÿ8Û¢¾ƒª/
+I
+java:S1481".Remove this unused "BookJava3" local variable.(ÛªÙïıÿÿÿÿ
+K
+java:S1481".Remove this unused "BookJava2" local variable.(„å¡¹8ÃÀƒª/

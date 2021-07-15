@@ -1,0 +1,9 @@
+
+†
+java:S4165H"kRemove this useless assignment; "currentSalary" already holds the assigned value along all execution paths.(¼—ãşÿÿÿÿ
+f	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¼Í‘
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢‚‘Î
+–
+java:S1845G"yRename method "getcurrentSalary" to prevent any misunderstanding/clash with method "getCurrentSalary" defined on line 26.(¢†èŠ8´öƒƒª/
+b	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ËÂ6
+h	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øš÷Ÿÿÿÿÿÿ

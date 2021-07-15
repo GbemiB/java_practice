@@ -1,0 +1,22 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ïüÜ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÜ»úúÿÿÿÿ
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(×ë¼Ä8«ÿ·„ª/
+O
+java:S1854$"9Remove this useless assignment to local variable "hours".(ïâÚ
+E
+java:S6212"/Declare this local variable with "var" instead.(¶ïüÜ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×ê¤°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹×Úøÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¤÷µøÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ñ‚º·úÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(¶¾¾©ÿÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(»»ä­ıÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(øå‹Ìüÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(™ä–¤şÿÿÿÿ
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(¬¥‡¿úÿÿÿÿ8ƒó³„ª/
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Á¬„ª/
+@
+java:S1481"*Remove this unused "hours" local variable.(ÆÎ»á

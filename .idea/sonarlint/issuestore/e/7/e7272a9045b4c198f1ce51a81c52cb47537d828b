@@ -1,0 +1,17 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÆëÃùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÆëÃùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¿ÐÊþÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¿ÐÊþÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¿ÐÊþÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çüŽ®
+C
+java:S1121".Extract the assignment out of this expression.(äÜø2
+C
+java:S1121".Extract the assignment out of this expression.(š÷¶
+U
+java:S1118":Add a private constructor to hide the implicit public one.(˜æçãýÿÿÿÿ
+P
+java:S1854";Remove this useless assignment to local variable "biggest".(äÜø2
+P
+java:S1854";Remove this useless assignment to local variable "biggest".(š÷¶
